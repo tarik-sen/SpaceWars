@@ -1,5 +1,5 @@
 # SpaceWars
-16 bit real-mode assembly rendition of classic space game.
+16-bit real-mode assembly rendition of classic space game.
 
 <img src=docs/demo.gif width=500px>
 
@@ -17,7 +17,7 @@ sudo apt-get install gcc
 ```
 ### Source
 ```bash
-git clone 'https://github.com/tarik/SpaceWars'
+git clone 'https://github.com/tarik-sen/SpaceWars.git'
 cd SpaceWars
 ```
 
